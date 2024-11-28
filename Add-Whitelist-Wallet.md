@@ -6,7 +6,7 @@ Việc thêm ví whitelist để rút tiền trên HashKey Exchange giúp đảm
 ---
 
 ## Bước 1: Đăng nhập vào tài khoản HashKey Exchange
-1. Truy cập trang web của [HashKey Exchange]([https://global.hashkey.com/en-US/register/invite?invite_code=JMdixq]).
+1. Truy cập trang web của [HashKey Exchange](https://global.hashkey.com/en-US/register/invite?invite_code=JMdixq).
 2. Nhập thông tin tài khoản (email/số điện thoại và mật khẩu) để đăng nhập.
 3. Hoàn tất xác minh 2FA (Two-Factor Authentication) nếu được yêu cầu.
 
